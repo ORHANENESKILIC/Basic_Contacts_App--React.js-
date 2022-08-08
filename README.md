@@ -1,4 +1,5 @@
-![video-to-gif-converter](https://user-images.githubusercontent.com/78687726/183412582-305e8805-9991-47a0-889a-6ecafd5892b3.gif)
+
+https://user-images.githubusercontent.com/78687726/183412716-080a1077-5853-462d-8fdc-1bf9e5817cfc.mp4
 
 
 # Getting Started with Create React App
